@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/badge/Python-3776AB)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/svd-ncsu/hw1.svg)](https://github.com/svd-ncsu/hw2/blob/main/LICENSE.md)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![License](https://img.shields.io/github/license/svd-ncsu/hw1.svg?style=for-the-badge)](https://github.com/svd-ncsu/hw2/blob/main/LICENSE.md)
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
